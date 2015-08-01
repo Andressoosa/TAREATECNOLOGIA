@@ -3,7 +3,7 @@
 //------------------------------------
 //Declara puertos de entradas y salidas
 //------------------------------------
-#include "EEPROM.h" 
+
 
 int pulsador1=2;        //Pin donde se encuentra el pulsador1, entrada
 int pulsador2=3;         //pin donde se encuentra el pulsador2,entrada 
