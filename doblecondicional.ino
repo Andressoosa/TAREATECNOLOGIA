@@ -1,14 +1,4 @@
-/*
- ----------------------------------- 
-  Encender LED con un pulsador
- -----------------------------------
- 
- Oprimir un pulsador y mientras este se mantenga accionado 
-  un LED se enciende
- 
- Cosas de Mecatrónica y Tienda de Robótica
- 
-*/
+
  
 //------------------------------------
 //Declara puertos de entradas y salidas
